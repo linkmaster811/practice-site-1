@@ -90,11 +90,11 @@ button {
 }
 
 .image {
-    background-color: gray;
     display: flex;
     align-items: center;
     justify-content: center;
     height: 215px;
+    width: auto;
 }
 
 main {
